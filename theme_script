@@ -1,0 +1,2 @@
+blogdown::install_hugo()
+blogdown::build_site(theme="hugo-tranquilpeak-theme")

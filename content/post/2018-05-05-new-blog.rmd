@@ -1,0 +1,15 @@
+---
+title: new_blog
+author: ~
+date: '2018-05-05'
+slug: new-blog
+categories: []
+tags: []
+---
+
+this is a normal distribution.
+
+```{r}
+hist(rnorm(10000))
+```
+
