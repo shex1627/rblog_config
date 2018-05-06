@@ -1,2 +1,8 @@
+## R command
 blogdown::install_hugo()
-blogdown::build_site(theme="hugo-tranquilpeak-theme")
+#blogdown::build_site(theme="hugo-tranquilpeak-theme")
+
+## command line command
+mkdir themes
+cd themes
+git clone https://github.com/kakawait/hugo-tranquilpeak-theme.git 
