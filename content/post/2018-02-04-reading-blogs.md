@@ -2,6 +2,7 @@
 layout: post
 title: "On Reading Data Science Blogs 1: Principles"
 category: learning
+date : "2018-02-04"
 tags: 
 keywords: 
 ---

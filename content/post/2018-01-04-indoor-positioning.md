@@ -2,6 +2,7 @@
 layout: post
 title: Indoor Positioning Research Project
 category: Projects
+date : "2018-01-04"
 tags: 
 keywords: 
 ---

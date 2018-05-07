@@ -2,6 +2,7 @@
 layout: post
 title: Proving by induction is sometimes bad
 category: learning
+date : "2017-11-24"
 tags: 
 keywords: 
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: Use small/mental data to learn how to focus better
 category: Projects
+date : "2017-12-31"
 tags: 
 keywords: 
 ---

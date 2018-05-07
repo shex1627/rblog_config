@@ -2,6 +2,7 @@
 layout: post
 title: Backpack Analysis(2)-Reflection
 category: Projects
+date: "2017-02-23"
 tags:
 keywords: DataProject, Analysis
 ---

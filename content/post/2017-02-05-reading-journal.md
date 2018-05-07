@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Reading Journal
-category: Reading
+category: [Reading]
+date: "2017-02-05"
 tags:
 keywords: Reading
 ---

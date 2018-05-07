@@ -2,6 +2,7 @@
 layout: post
 title: Learning how to write from Nate Silver
 category: book review
+date : "2017-12-11"
 tags: 
 keywords: 
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: Thoughts on 358 Article "Science Isn't Broken"
 category: Review
+date: "2017-05-21"
 tags:
 keywords:  review, science
 ---

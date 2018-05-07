@@ -2,6 +2,7 @@
 layout: post
 title: Data Analysis Workflow Guide
 category: learning
+date : "2017-09-28"
 tags: 
 keywords: 
 ---

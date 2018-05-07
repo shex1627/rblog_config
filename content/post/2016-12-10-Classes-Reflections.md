@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Classes Reflections
+date : "2016-12-10"
 tags:
 keywords: reflections
 ---

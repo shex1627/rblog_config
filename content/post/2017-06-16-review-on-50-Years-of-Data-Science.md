@@ -2,6 +2,7 @@
 layout: post
 title: review on 50 Years of Data Science
 category: Review
+date: "2017-06-16"
 tags: 
 keywords: 
 ---

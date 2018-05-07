@@ -2,6 +2,7 @@
 layout: post
 title: Reading Journal Reflection
 category: Reading
+date: "2017-02-22"
 tags:
 keywords: Reading
 ---

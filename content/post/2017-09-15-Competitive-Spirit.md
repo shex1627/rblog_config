@@ -2,6 +2,7 @@
 layout: post
 title: Getting Better at Data Analysis 1
 category: learning
+date: "2017-09-15"
 tags:
 keywords:
 ---
